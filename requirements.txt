@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+google-auth
+fpdf2
+matplotlib
+python-dotenv
+requests
+beautifulsoup4
+gtts
+streamlit-mermaid
