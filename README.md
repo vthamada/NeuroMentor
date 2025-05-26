@@ -158,4 +158,4 @@ Este projeto é de uso livre para fins educacionais. Para uso comercial, consult
 ## 🙋‍♂️ Autor
 Ricardo Hamada
 
-[LinkedIn](linkedin.com/in/vitor-hamada) • [GitHub](https://github.com/vthamada)
+[LinkedIn](linkedin.com/in/ricardohamada) • [GitHub](https://github.com/vthamada)
